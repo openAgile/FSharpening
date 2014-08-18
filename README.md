@@ -13,7 +13,7 @@ To get a more detailed grounding in functional concepts, motivations, and side-b
 
 # Open source VersionOne examples
 
-It helps to see one simple, single class implement in C#, then the equivalent in F#.
+It helps to see one simple, single class implemented in C#, then the equivalent in F#.
 
 * Here's a [C# WebApi service](https://github.com/versionone/CommunitySite.CodeSamples/blob/master/CommunitySite.CodeSamples/Controllers/SampleController.cs) for serving up sample code to the VersionOne Community Site.
 * [Here's an F# equivalent](https://github.com/versionone/CommunitySite.CodeSamples/blob/master/CommunityService/SampleController.fs)!
