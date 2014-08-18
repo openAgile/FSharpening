@@ -26,7 +26,7 @@ See [F# 3.0 Samples](http://fsharp3sample.codeplex.com/), including [dozens of m
 
 # Internal resources for V1ers
 
-This repo was started by employees at [VersionOne](http://github.com/VersionOne), which uses the F# language in several product components. If you're on the inside, check out the Structured Query project in the Core product, and [this page on confluence to download [F# for C# Developers](http://confluence/display/dev/F%23+for+V1+C%23+users) for free.
+This repo was started by employees at [VersionOne](http://github.com/VersionOne), which uses the F# language in several product components. If you're on the inside, check out the Structured Query project in the Core product, and this page on confluence to download the book [F# for C# Developers](http://confluence/display/dev/F%23+for+V1+C%23+users) for free.
 
 # Longer-term
 
