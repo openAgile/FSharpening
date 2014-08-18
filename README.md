@@ -29,12 +29,6 @@ See [F# 3.0 Samples](http://fsharp3sample.codeplex.com/), including [dozens of m
 
 This repo was started by employees at [VersionOne](http://github.com/VersionOne), which uses the F# language in several product components. If you're on the inside, check out the Structured Query project in the Core product, and this page on confluence to download the book [F# for C# Developers](http://confluence/display/dev/F%23+for+V1+C%23+users) for free.
 
-# Longer-term
-
-The FSharp.org site is a great place to go, no doubt. As are the numerous books about the language.
-
-Check out the F# dojos and other resources at [http://c4fsharp.net/](http://c4fsharp.net/). Also follow them at [https://twitter.com/c4fsharp](https://twitter.com/c4fsharp)
-
 # Free video introductions
 
 * Dr. Don Syme's C9 Lectures: [Introduction to F#, Parts 1 - 3](http://channel9.msdn.com/Series/C9-Lectures-Dr-Don-Syme-Introduction-to-F-) -- I highly recommend these videos to hear the language's inventor describe it in detail.
@@ -45,9 +39,14 @@ Check out the F# dojos and other resources at [http://c4fsharp.net/](http://c4fs
 * [F# Programming in Wikibooks](http://en.wikibooks.org/wiki/F_Sharp_Programming)
 * [F# Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/fsharp), by Robert Pickering
 
-# Recommended Books
+# Recommended commercial books
 
 * [Expert F#](http://www.amazon.com/Expert-3-0-Experts-Voice-Syme/dp/1430246502/ref=sr_1_4?s=books&ie=UTF8&qid=1408372118&sr=1-4&keywords=f%23), by Don Syme. Don invented the language and you can find lots of videos about it from him in Channel 9. This books is excellent as a follow-on from the TryFSharp web site.
 * [Real-World Functional Programming with Examples in F# and C#](http://www.amazon.com/Real-World-Functional-Programming-Tomas-Petricek/dp/1933988924/ref=sr_1_5?s=books&ie=UTF8&qid=1408372118&sr=1-5&keywords=f%23), by Tomas Petricek. This book is also excellent, but it's more theoretical, and is more intense toward the middle to end chapters.
 * [The Book of F#](http://www.amazon.com/Book-Breaking-Managed-Functional-Programming/dp/1593275528/ref=sr_1_1?s=books&ie=UTF8&qid=1408372118&sr=1-1&keywords=f%23), by Dave Francher. I have not read too far into this book, but it seems to be a good intro to the language.
 * [More!](http://fsharp.org/about/learning.html) There are quite a few books out now! Everything from [F# for Scientists](http://www.amazon.com/F-Scientists-Jon-Harrop/dp/0470242116/ref=sr_1_12?s=books&ie=UTF8&qid=1408372118&sr=1-12&keywords=f%23) to [F# for Quantitative Finance](http://www.amazon.com/F-Quantitative-Finance-Johan-Astborg/dp/1782164626/ref=sr_1_8?s=books&ie=UTF8&qid=1408372118&sr=1-8&keywords=f%23).
+
+# Dojo projects
+
+Check out the F# dojos and other resources at [http://c4fsharp.net/](http://c4fsharp.net/). Also follow them at [https://twitter.com/c4fsharp](https://twitter.com/c4fsharp)
+
