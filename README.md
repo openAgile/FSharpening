@@ -7,7 +7,7 @@ There are lots of ways to learn F#. You could buy books and install Visual Studi
 
 # Bootstrapping: No download necessary
 
-To just start trying F# **right now**, go to [http://tryfsharp.org](http://tryfsharp.org)
+But, to just start trying F# **right now**, go to [http://tryfsharp.org](http://tryfsharp.org)
 
 To get a more detailed grounding in functional concepts, motivations, and side-by-side comparisons with C#, couple that with reading [F# For Fun and Profit](http://www.fsharpforfunandprofit.org)
 
